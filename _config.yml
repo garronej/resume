@@ -1,0 +1,87 @@
+# Site
+repository: garronej/resume
+favicon: images/favicon.ico
+
+# Personal info
+name: Joseph Garrone
+title: Software engineer
+email: joseph.garrone@protonmail.com
+phone: +33 6 36 78 63 85
+website: https://garronej.github.io/resume
+
+# Dark Mode (true/false/never)
+darkmode: never
+
+# Social links
+twitter_username: GarroneJoseph
+github_username:  garronej
+linkedin_username: joseph-garrone-0b583490
+
+# Additional icon links
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_content: |
+  Hi, my name's Joseph and I'm a software engineer. 
+  I have experience in building cross platform applications (Mobile/Web) that do cool things. 
+  I also know how to deploy the stuffs I build.
+
+
+# Projects Section
+projects_title: Open Source Projects 
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+more_title: Languages
+more_content: | # this will include new lines to allow paragraphs
+  - Mother thong is __french__
+  - I am fluent in __english__ although my phonetic is terrible and my speech rate is slow
+  - Fluent in __spanish__ as well but have few occasions to practice, I might be a bit rusty
+  - I am dyslexic, my spelling is terrible but [Antidote](https://www.antidote.info/fr) does wonders
+
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
