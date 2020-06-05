@@ -4,3 +4,80 @@
 
 @import 'modern-resume-theme';
 
+
+
+
+@media screen and (min-width: 1200px){
+    body{
+        .page-content{
+            .wrapper{
+                .container{
+                    width: 1030px !important;
+                    .row{
+                        #twitter-widget-1, #twitter-widget-3, #twitter-widget-5{
+                            position: absolute !important;
+                            right: 0;
+                            bottom: 0;
+                        }
+                        #twitter-widget-2{
+                            padding-bottom: 83px;
+                        }
+
+                        #twitter-widget-5{
+                            bottom: 530px;
+                        }
+
+                    }
+                }
+            }
+        }
+    }
+
+}
+
+@media screen and (max-width: 1199px) and (min-width: 992px){
+    body{
+        .page-content{
+            .wrapper{
+                .container{
+                    .row{
+                        .twitter-tweet{
+                            margin-left: 23%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 991px) and (min-width: 768px){
+    body{
+        .page-content{
+            .wrapper{
+                .container{
+                    .row{
+                        .twitter-tweet{
+                            margin-left: 14.5%;
+
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 767px) and (min-width: 530px){
+    body{
+        .page-content{
+            .wrapper{
+                .projects-container{
+                    width: 500px !important;
+                }
+            }
+        }
+    }
+}
+
