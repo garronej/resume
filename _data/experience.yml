@@ -1,12 +1,21 @@
 - layout: left
+  company: Semasim
+  link: semasim.com
+  job_title: Founder, CTO
+  dates: 2017 - Current
+  quote: >
+    Building a Data viz web app that helps farmer evaluate the impact of different insecticide on their health and on the environnement.
+  description: | 
+    Second year engineering's school internship. 
+    We started from scratch, [this is](https://www.youtube.com/watch?v=Moax81M6BEA) the result we got after two month of work, a fellow ENSIMAG student and I. 
+- layout: left
   company: CIHEAM
   link: boringcompany.com
   job_title: Full-stack dev
   dates: Jul 2014 - Oct 2014
   quote: >
-    Building a Data viz web app that helps farmer evaluate the impact of different insectiside on their ealth and on the environement.
+    Building a Data viz web app that helps farmer evaluate the impact of different insecticide on their health and on the environnement.
   description: | 
     Second year engineering's school internship. 
     We started from scratch, [this is](https://www.youtube.com/watch?v=Moax81M6BEA) the result we got after two month of work, a fellow ENSIMAG student and I. 
     [This is](https://etophy.fr) the product today.
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
