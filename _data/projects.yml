@@ -5,7 +5,9 @@
   quote: >
     Covered by <a target="_blank" style="text-align:center;" href="https://nodeweekly.com/issues/340">Node Weekly</a>
   description: | # this will include new lines to allow paragraphs
-    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">EVT: A Type Safe Replacement for Node&#39;s `EventEmitter` - <a href="https://t.co/ehynJ3ZqBv">https://t.co/ehynJ3ZqBv</a> (Deno-first, but also available in Node via npm.)</p>&mdash; JavaScript Daily (@JavaScriptDaily) <a href="https://twitter.com/JavaScriptDaily/status/1265998258322710529?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <div id="tweet_1">
+      <blockquote class="twitter-tweet"><p lang="en" dir="ltr">EVT: A Type Safe Replacement for Node&#39;s `EventEmitter` - <a href="https://t.co/ehynJ3ZqBv">https://t.co/ehynJ3ZqBv</a> (Deno-first, but also available in Node via npm.)</p>&mdash; JavaScript Daily (@JavaScriptDaily) <a href="https://twitter.com/JavaScriptDaily/status/1265998258322710529?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There are so many wonderfully creative people!<br>I applaud your efforts <a href="https://twitter.com/GarroneJoseph?ref_src=twsrc%5Etfw">@GarroneJoseph</a>!<a href="https://t.co/tNGsYKgiG9">https://t.co/tNGsYKgiG9</a></p>&mdash; deno (@deno_community) <a href="https://twitter.com/deno_community/status/1261632260169760769?ref_src=twsrc%5Etfw">May 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - layout: top-middle
   name: Denoify

@@ -37,8 +37,12 @@
 
   {%- include footer.html -%}
   {% if site.darkmode == false %}
-    <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/dark.js' | relative_url }}"></script>
   {% endif %}
+
+  <div id="tweet"></div>
+  <script src="//platform.twitter.com/widgets.js"></script>
+  <script src="{{ '/assets/js/twitter_alter.js' | relative_url }}"></script>
 </body>
 
 </html>
