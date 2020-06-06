@@ -1,11 +1,11 @@
 - layout: left
   company: Semasim
-  link: semasim.com
+  link: www.semasim.com
   job_title: Founder, CTO
   dates: 2017 - Current
-  quote: >
-    One Phone, Multiple SIM Cards!
   description: | 
+    _One Phone, Multiple SIM Cards_  
+
     ![boitier usb   sim-01](https://user-images.githubusercontent.com/6702424/83925403-5bc0b180-a787-11ea-8584-3bc900c9e279.jpg)
     ![IMG_9131](https://user-images.githubusercontent.com/6702424/83925207-ebb22b80-a786-11ea-831a-79215e74150e.JPG)
 
@@ -28,12 +28,12 @@
 
 - layout: left
   company: CIHEAM
-  link: boringcompany.com
+  link: www.ciheam.org
   job_title: Full-stack dev
   dates: Jul 2014 - Oct 2014
-  quote: >
-    Building a Data viz web app that helps farmer evaluate the impact of different insecticide on their health and on the environnement.
   description: | 
+    _Building a Data viz web app that helps farmer evaluate the impact of different insecticide on their health and on the environnement_
+
     Second year engineering's school internship. 
     We started from scratch, [this is](https://www.youtube.com/watch?v=Moax81M6BEA) the result we got after two month of work, a fellow ENSIMAG student and I. 
     [This is](https://etophy.fr) the product today.
