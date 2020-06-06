@@ -13,14 +13,16 @@
             .wrapper{
                 .container{
                     width: 1030px !important;
+                    .layout:nth-child(3){
+                        height: 727px !important;
+                    }
                     .row{
+                        
                         #twitter-widget-1, #twitter-widget-3, #twitter-widget-5{
                             position: absolute !important;
                             right: 0;
-                            bottom: 0;
-                        }
-                        #twitter-widget-2{
-                            padding-bottom: 83px;
+                            top: 41px;
+                            
                         }
 
                         #twitter-widget-5{
