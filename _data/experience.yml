@@ -15,8 +15,8 @@
 
     The competitive edge of Semasim over our direct competitors such as  GlocalMe or SimMore are:
     - We implement __end to end encryption__ for calls+messages and __client side encryption__ for user data.
-    - Calls are performed peer-to-peer (between phone and the gateway) which greatly reduces the latency compared to calls that are routed via a central server.
-    - The app Semasim Server can be installed on any machine (including raspberry pi) and is compatible with most Huawei GSM USB dongles.
+    - Calls are performed peer-to-peer (between the phone and the gateway) which greatly reduces the latency compared to calls that are routed via a central server.
+    - The Semasim Server app can be installed on any machine (including raspberry pi) and is compatible with most Huawei GSM USB dongles.
     - Like in Facebook Messenger, unlike in Whatsapp, the user can be connected to Semasim simultaneously on his smartphone,  tablet, and computer (via the web app). Every state of the app are synchronized in real-time across device and when a call lands every device rings.
     - The SIMs can be shared across Semasim’s user like printers can be shared with google cloud print. The goal is to allow small teams to share the same phone number.
     - The Sim pairing protocol is smart and secure. (No QR code to flash like with our competitor)
