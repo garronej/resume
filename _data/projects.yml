@@ -1,7 +1,7 @@
 - layout: top-middle
   name: EVT
   link: evt.land
-  github: github.com/garronej/evt
+  github: garronej/evt
   quote: >
     Covered by <a target="_blank" style="text-align:center;" href="https://nodeweekly.com/issues/340">Node Weekly</a>
   description: | # this will include new lines to allow paragraphs
@@ -10,7 +10,7 @@
 - layout: top-middle
   name: Denoify
   #link: github.com/garronej/denoify
-  github: github.com/garronej/evt
+  github: garronej/denoify
   quote: >
     Covered by
     <a target="_blank" style="text-align:center;" href="https://denoweekly.com/issues/5">Deno Weekly</a>
@@ -22,7 +22,7 @@
 - layout: top-middle
   name: ts_ci
   #link: github.com/garronej/denoify
-  github: github.com/garronej/ts_ci
+  github: garronej/ts_ci
   quote: >
     Covered byy <a target="_blank" style="text-align:center;" href="https://nodeweekly.com/issues/339">Node Weekly</a>
   description: | 

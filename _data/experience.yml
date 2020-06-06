@@ -1,12 +1,39 @@
 - layout: left
+  company: Semasim
+  link: semasim.com
+  job_title: Founder, CTO
+  dates: 2017 - Current
+  quote: >
+    One Phone, Multiple SIM Cards!
+  description: | 
+    ![boitier usb   sim-01](https://user-images.githubusercontent.com/6702424/83925403-5bc0b180-a787-11ea-8584-3bc900c9e279.jpg)
+    ![IMG_9131](https://user-images.githubusercontent.com/6702424/83925207-ebb22b80-a786-11ea-831a-79215e74150e.JPG)
+
+    Semasim is a tech company centred around a GSM gateway app. It enables users to make use of SIM cards that are not inside their phones. 
+
+    The main benefits of this application are to enable users to use any phone as a dual or triple sim phone and to save on roaming fees when traveling abroad.
+
+    The competitive edge of Semasim over our direct competitors such as  GlocalMe or SimMore are:
+    - We implement __end to end encryption__ for calls+messages and __client side encryption__ for user data.
+    - Calls are performed peer-to-peer (between phone and the gateway) which greatly reduces the latency compared to calls that are routed via a central server.
+    - The app Semasim Server can be installed on any machine (including raspberry pi) and is compatible with most Huawei GSM USB dongles.
+    - Like in Facebook Messenger, unlike in Whatsapp, the user can be connected to Semasim simultaneously on his smartphone,  tablet, and computer (via the web app). Every state of the app are synchronized in real-time across device and when a call lands every device rings.
+    - The SIMs can be shared across Semasim’s user like printers can be shared with google cloud print. The goal is to allow small teams to share the same phone number.
+    - The Sim pairing protocol is smart and secure. (No QR code to flash like with our competitor)
+    - The same code is powering the React-Native app and the Web app.
+    - The calls get through even if the user is connected behind a restrictive firewall
+    - The server side code is fully distributed. To upscale we only need to startup a new EC2 instance, the load balancer will pick it up and add it to the already running fleet.
+
+    Although I am no the only person involved in this project but I build 95% of it by myself including the GSM modem driver.
+
+- layout: left
   company: CIHEAM
   link: boringcompany.com
   job_title: Full-stack dev
   dates: Jul 2014 - Oct 2014
   quote: >
-    Building a Data viz web app that helps farmer evaluate the impact of different insectiside on their ealth and on the environement.
+    Building a Data viz web app that helps farmer evaluate the impact of different insecticide on their health and on the environnement.
   description: | 
     Second year engineering's school internship. 
     We started from scratch, [this is](https://www.youtube.com/watch?v=Moax81M6BEA) the result we got after two month of work, a fellow ENSIMAG student and I. 
     [This is](https://etophy.fr) the product today.
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
