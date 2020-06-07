@@ -7,8 +7,17 @@
 body{
     .page-content{
         .wrapper{
-            .fakeTweet{
+            .projects-container{
                 position: relative;
+            }
+            #twitter-widget-5, #twitter-widget-6{
+                display: none !important;
+            }
+
+            .fakeTweet{
+
+                position: absolute; 
+                margin-left: 15px;
                 min-width: 220px;
                 width: 498px;
                 height: 250px;
@@ -80,7 +89,7 @@ body{
                         width: 17px;
                         height: 17px;
                         right: 15px;
-                        top: 2px;
+                        top: 10px;
                         border: solid rgb(95, 91, 91) 1px;
                         color: rgb(95, 91, 91);
                         text-decoration: none;
@@ -93,6 +102,8 @@ body{
                     .heart{
                         text-decoration: none;
                         color: grey;
+                        position: absolute;
+                        top: 8px;
                         span{
                             color: rgb(70, 141, 165);
                         }
@@ -214,6 +225,10 @@ body{
     body{
         .page-content{
             .wrapper{
+                .fakeTweet{
+                    bottom: 302px;
+                    left: 50%;
+                }
                 .projects-container{
                     width: 1030px !important;
                     .layout:nth-child(3){
@@ -244,6 +259,10 @@ body{
     body{
         .page-content{
             .wrapper{
+                .fakeTweet{
+                    position: relative;
+                    left: 21.5%;
+                }
                 .projects-container{
                     .row{
                         .twitter-tweet{
@@ -260,6 +279,10 @@ body{
     body{
         .page-content{
             .wrapper{
+                .fakeTweet{
+                    position: relative;
+                    left: 12.5%;
+                }
                 .projects-container{
                     .row{
                         .twitter-tweet{
@@ -278,6 +301,12 @@ body{
     body{
         .page-content{
             .wrapper{
+                .fakeTweet{
+                    position: relative;
+                    top: -5px;
+                    left: -6%;
+                    transform: scale(0.95);
+                }
                 .projects-container{
                     width: 500px !important;
                 }
@@ -291,8 +320,11 @@ body{
         .page-content{
             .wrapper{
                 .fakeTweet{
-                    width: 95%;
+                    position: relative;
+                    width: 105%;
+                    left: -24px;
                     height: 300px;
+                    transform: scale(0.95);
                     .paragraph{
                         width: 88%;
 
@@ -309,6 +341,7 @@ body{
         .page-content{
             .wrapper{
                 .fakeTweet{
+                    position: relative;
                     height: 320px;
                     .paragraph{
                         a{
@@ -327,6 +360,7 @@ body{
             .wrapper{
                 .fakeTweet{
                     height: 360px;
+                    position: relative;
 
                     .foot{
                         height: 60px;
@@ -352,12 +386,16 @@ body{
         .page-content{
             .wrapper{
                 .fakeTweet{
-                    height: 400px;
-                }
-                .heart{
                     position: relative;
-                    bottom: 18px;
+                    height: 400px;
+                    .heart{
+                        top: -13px !important;
+                    }
+                    .exclamationMark{
+                        top: -13px !important;
+                    }
                 }
+
             }
         }
     }
