@@ -36,10 +36,9 @@ linkedin_username: joseph-garrone-0b583490
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: |
-  Hi, my name's Joseph and I'm a software engineer. 
-  I have experience in building cross platform applications (Mobile/Web) that do cool things. 
-  I also know how to deploy the stuffs I build.
-
+  Hi, my name's Joseph and I'm a full stack software engineer.
+  I know how to build and deploy cross platform applications (Mobile/Web) that achieve uncommon things.
+  Beside I am very involved in open source, I am pushing Deno and I advocate for generalized TypeScript adoption.
 
 # Projects Section
 projects_title: Open Source Projects 
@@ -57,6 +56,54 @@ more_content: | # this will include new lines to allow paragraphs
   - I am fluent in __english__ although my phonetic is terrible and my speech rate is slow
   - Fluent in __spanish__ as well I but have few occasions to practice, I might be a bit rusty
   - I am dyslexic, my spelling is terrible but [Antidote](https://www.antidote.info/fr) does wonders
+
+skills_title: Skills
+skills_content: |
+  #### Languages for which I have a real expertise (try me)
+  JavaScript TypeScript
+
+  #### Language with with I can be efficient on day one
+  Java, C
+
+  #### Languages with which I have some experience but I would need a couple of day to get fully efficient
+  C# Python C++ ADA R Matlab... 
+
+  #### Programing paradigm
+  I tend to favor functional over object oriented but really
+  it depend. Sometime good old procedural is the best fit.
+
+  #### JS Runtime
+  Node.js, Browsers, ReactNative, LiquidCore, Deno   
+
+  #### Frontend frameworks
+  React but I can work with anything... or nothing at all, I can build my own UI 
+  framework from scratch (not that it is very efficient to do so).
+
+  #### Libraries
+  I would say RxJS but I am pushing my own alternative EVT so...
+  I would also say lodash but here again I have my own little lib (that I haven't published yet)
+
+  #### System security and Cryptography
+  I know how to implement symmetrical and asymmetrical encryption.
+  Writing secure code is a major interest for me, I know and understand most of the common
+  vulnerabilities in IT systems.
+
+  #### System administration
+  Proficient with UNIX systems, SSH, systemd, NETDATA
+  I have experience deploying using the different services of AWS.
+
+  #### Language Theory
+  I can write compilers and interpreters.
+
+  #### Databases
+  I know how to design and query complex relational database. 
+  If given the choice I use MySQL.
+
+  #### Devops
+  I know how to implement CD/CI. I know GitHub Actions features well.
+
+  #### Network engenering
+  Deep understanding of the TCP/IP stack and of how the web work in general.
 
 
 # Footer
