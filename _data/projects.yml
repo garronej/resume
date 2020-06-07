@@ -3,8 +3,8 @@
   link: evt.land
   github: garronej/evt
   quote: >
-    Like RxJS, EVT is a library for managing events streams. It's focus is on making the most of TypeScript inference features.  
-    It is the first library that is both a Deno and a NPM module.
+    Like RxJS, EVT is a library for managing event streams. Its focus is on making the most of TypeScript inference features.  
+    It is the first library that is both a Deno and an NPM module.
     Covered by <a target="_blank" style="text-align:center;" href="https://nodeweekly.com/issues/340">Node Weekly</a>
   description: | # this will include new lines to allow paragraphs
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">EVT: A Type Safe Replacement for Node&#39;s `EventEmitter` - <a href="https://t.co/ehynJ3ZqBv">https://t.co/ehynJ3ZqBv</a> (Deno-first, but also available in Node via npm.)</p>&mdash; JavaScript Daily (@JavaScriptDaily) <a href="https://twitter.com/JavaScriptDaily/status/1265998258322710529?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -14,12 +14,12 @@
   #link: github.com/garronej/denoify
   github: garronej/denoify
   quote: >
-    A tool that enable libraries author to make their work compatible with both Node.js and Deno. 
+    A tool that enables library authors to make their work compatible with both Node.js and Deno. 
     It is a move for trying to keep the JavaScript community united.
     Covered by
     <a target="_blank" style="text-align:center;" href="https://denoweekly.com/issues/5">Deno Weekly</a>
     and
-    <a target="_blank" style="text-align:center;" href="https://nodeweekly.com/issues/341">Node Weekly</a>
+    <a target="_blank" style="text-align:center;" href="https://nodeweekly.com/issues/341">Node Weekly.</a>
   description: | 
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🦕 Another gem in the works!<a href="https://t.co/TgG9mZXunj">https://t.co/TgG9mZXunj</a></p>&mdash; deno (@deno_community) <a href="https://twitter.com/deno_community/status/1261634300887302144?ref_src=twsrc%5Etfw">May 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">You can find the slides of our meetup:<br>- Talk 1: <a href="https://t.co/yb5SdLbGzY">https://t.co/yb5SdLbGzY</a><br>- Talk 2: <a href="https://t.co/wNRgTAIf45">https://t.co/wNRgTAIf45</a><br>- Talk 3: <a href="https://t.co/QBhDu7kxAw">https://t.co/QBhDu7kxAw</a><br><br>Also, the replay is available <a href="https://t.co/d20Dh161HD">https://t.co/d20Dh161HD</a><a href="https://twitter.com/hashtag/denoland?src=hash&amp;ref_src=twsrc%5Etfw">#denoland</a> <a href="https://twitter.com/hashtag/parisdeno?src=hash&amp;ref_src=twsrc%5Etfw">#parisdeno</a> <a href="https://twitter.com/hashtag/typescript?src=hash&amp;ref_src=twsrc%5Etfw">#typescript</a> <a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a></p>&mdash; ParisDeno (@ParisDeno) <a href="https://twitter.com/ParisDeno/status/1268260080991993856?ref_src=twsrc%5Etfw">June 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -28,7 +28,7 @@
   #link: github.com/garronej/denoify
   github: garronej/ts_ci
   quote: >
-    A continus integration setup that help peoples publish and maintain well documented and well tested NPM modules.
+    A continuous integration setup that helps peoples publish and maintain well documented and well-tested NPM modules.
     Covered by <a target="_blank" style="text-align:center;" href="https://nodeweekly.com/issues/339">Node Weekly</a>
   description: | 
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">ts_ci: A Template for Creating and Publishing TypeScript Modules with GitHub Actions - <a href="https://t.co/rsDRfOsH2l">https://t.co/rsDRfOsH2l</a></p>&mdash; JavaScript Daily (@JavaScriptDaily) <a href="https://twitter.com/JavaScriptDaily/status/1264194875970510850?ref_src=twsrc%5Etfw">May 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

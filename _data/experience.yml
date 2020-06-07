@@ -11,20 +11,20 @@
 
     Semasim is a tech company centred around a GSM gateway app. It enables users to make use of SIM cards that are not inside their phones. 
 
-    The main benefits of this application are to enable users to use any phone as a dual or triple sim phone and to save on roaming fees when traveling abroad.
+    The main benefits of this application are to enable users to use any phone as a dual or triple sim phone and to save on roaming fees when travelling abroad.
 
     The competitive edge of Semasim over our direct competitors such as  GlocalMe or SimMore are:
-    - We implement __end to end encryption__ for calls+messages and __client side encryption__ for user data.
+    - We implement __end to end encryption__ for calls+messages and __client-side encryption__ for user data.
     - Calls are performed peer-to-peer (between the phone and the gateway) which greatly reduces the latency compared to calls that are routed via a central server.
     - The Semasim Server app can be installed on any machine (including raspberry pi) and is compatible with most Huawei GSM USB dongles.
-    - Like in Facebook Messenger, unlike in Whatsapp, the user can be connected to Semasim simultaneously on his smartphone,  tablet, and computer (via the web app). Every state of the app are synchronized in real-time across device and when a call lands every device rings.
+    - Like in Facebook Messenger, unlike in WhatsApp, the user can be connected to Semasim simultaneously on his smartphone,  tablet, and computer (via the web app). Every state of the app is synchronised in real time across devices and when a call lands every device rings.
     - The SIMs can be shared across Semasim’s user like printers can be shared with google cloud print. The goal is to allow small teams to share the same phone number.
-    - The Sim pairing protocol is smart and secure. (No QR code to flash like with our competitor)
+    - The Sim pairing protocol is smart and secure. (No QR code to flash like with our competitor.)
     - The same code is powering the React-Native app and the Web app.
     - The calls get through even if the user is connected behind a restrictive firewall
-    - The server side code is fully distributed. To upscale we only need to startup a new EC2 instance, the load balancer will pick it up and add it to the already running fleet.
+    - The server-side code is fully distributed. To upscale we only need to startup a new EC2 instance, the load balancer will pick it up and add it to the already running fleet.
 
-    Although I am no the only person involved in this project but I build 95% of it by myself including the GSM modem driver.
+    Although I am not the only person involved in this project but I build 95% of it by myself including the GSM modem driver.
 
 - layout: left
   company: CIHEAM
@@ -32,8 +32,8 @@
   job_title: Full-stack dev
   dates: Jul 2014 - Oct 2014
   description: | 
-    _Building a Data viz web app that helps farmer evaluate the impact of different insecticide on their health and on the environnement_
+    _Building a Data viz web app that helps farmer evaluate the impact of different insecticide on their health and on the environment_
 
-    Second year engineering's school internship. 
-    We started from scratch, [this is](https://www.youtube.com/watch?v=Moax81M6BEA) the result we got after two month of work, a fellow ENSIMAG student and I. 
+    Second-year engineering's school internship. 
+    We started from scratch, [this is](https://www.youtube.com/watch?v=Moax81M6BEA) the result we got after two months of work, a fellow ENSIMAG student and I. 
     [This is](https://etophy.fr) the product today.
