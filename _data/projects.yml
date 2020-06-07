@@ -3,6 +3,8 @@
   link: evt.land
   github: garronej/evt
   quote: >
+    Like RxJS, EVT is a library for managing events streams. It's focus is on making the most of TypeScript inference features.  
+    It is the first library that is both a Deno and a NPM module.
     Covered by <a target="_blank" style="text-align:center;" href="https://nodeweekly.com/issues/340">Node Weekly</a>
   description: | # this will include new lines to allow paragraphs
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">EVT: A Type Safe Replacement for Node&#39;s `EventEmitter` - <a href="https://t.co/ehynJ3ZqBv">https://t.co/ehynJ3ZqBv</a> (Deno-first, but also available in Node via npm.)</p>&mdash; JavaScript Daily (@JavaScriptDaily) <a href="https://twitter.com/JavaScriptDaily/status/1265998258322710529?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -12,6 +14,8 @@
   #link: github.com/garronej/denoify
   github: garronej/denoify
   quote: >
+    A tool that enable libraries author to make their work compatible with both Node.js and Deno. 
+    It is a move for trying to keep the JavaScript community united.
     Covered by
     <a target="_blank" style="text-align:center;" href="https://denoweekly.com/issues/5">Deno Weekly</a>
     and
@@ -24,6 +28,7 @@
   #link: github.com/garronej/denoify
   github: garronej/ts_ci
   quote: >
+    A continus integration setup that help peoples publish and maintain well documented and well tested NPM modules.
     Covered by <a target="_blank" style="text-align:center;" href="https://nodeweekly.com/issues/339">Node Weekly</a>
   description: | 
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">ts_ci: A Template for Creating and Publishing TypeScript Modules with GitHub Actions - <a href="https://t.co/rsDRfOsH2l">https://t.co/rsDRfOsH2l</a></p>&mdash; JavaScript Daily (@JavaScriptDaily) <a href="https://twitter.com/JavaScriptDaily/status/1264194875970510850?ref_src=twsrc%5Etfw">May 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

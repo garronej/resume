@@ -73,14 +73,13 @@ skills_content: |
   it depend. Sometime good old procedural is the best fit.
 
   #### JS Runtime
-  Node.js, Browsers, ReactNative, LiquidCore, Deno   
+  Node.js, Browsers, ReactNative, LiquidCore, Deno  
 
   #### Frontend frameworks
-  React but I can work with anything... or nothing at all, I can build my own UI 
-  framework from scratch (not that it is very efficient to do so).
+  React but I can work with anything... or nothing at all, I can build my own UI framework from scratch (not that it is very efficient to do so)  
 
-  #### Libraries
-  I would say RxJS but I am pushing my own alternative EVT so...
+  #### Libraries
+  I would say RxJS but I am pushing my own alternative EVT so...  
   I would also say lodash but here again I have my own little lib (that I haven't published yet)
 
   #### System security and Cryptography
