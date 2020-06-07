@@ -14,6 +14,15 @@ body{
                 display: none !important;
             }
 
+            .fakeTweet1{
+                .rookoultabsContent{
+                    img{
+                        overflow: hidden;
+                        border-radius: 100%;
+                    }
+                }
+            }
+
             .fakeTweet{
 
                 position: absolute; 
@@ -225,6 +234,9 @@ body{
     body{
         .page-content{
             .wrapper{
+                .fakeTweet1{
+                    bottom: 10px !important;
+                }
                 .fakeTweet{
                     bottom: 302px;
                     left: 50%;
@@ -259,6 +271,9 @@ body{
     body{
         .page-content{
             .wrapper{
+                .fakeTweet1{
+                    margin-top: 10px !important;
+                }
                 .fakeTweet{
                     position: relative;
                     left: 21.5%;
@@ -279,6 +294,9 @@ body{
     body{
         .page-content{
             .wrapper{
+                .fakeTweet1{
+                    margin-top: 10px !important;
+                }
                 .fakeTweet{
                     position: relative;
                     left: 12.5%;
