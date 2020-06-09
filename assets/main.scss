@@ -10,6 +10,11 @@ body{
             .projects-container{
                 position: relative;
             }
+
+            #twitter-widget-0, #twitter-widget-1, #twitter-widget-2, #twitter-widget-3, #twitter-widget-4 {
+                width: 500px !important;
+            }
+
             #twitter-widget-5, #twitter-widget-6{
                 display: none !important;
             }
