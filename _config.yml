@@ -54,55 +54,56 @@ more_title: Languages
 more_content: | # this will include new lines to allow paragraphs
   - Mother tongue is __French__
   - I am fluent in __English__ although my phonetic is terrible and my speech rate is slow.
-  - Fluent in __Spanish__ as well I but have few occasions to practise, I might be a bit rusty
+  - Fluent in __Spanish__ as well I but have few occasions to practice, I might be a bit rusty
   - I am dyslexic, my spelling is terrible but [Antidote](https://www.antidote.info/fr) does wonders.
 
 skills_title: Skills
 skills_content: |
-  #### Languages in which I have a real expertise (try me)
-  JavaScript TypeScript
+  #### Languages with which I have a real expertise (try me)
+  JavaScript, TypeScript
 
   #### Language with which I can be efficient on day one
   Java, C
 
   #### Languages with which I have some experience but I would need a couple of days to get fully efficient.
-  C# Python C++ ADA R Matlab... 
+  C#, Python, C++, ADA, R, Matlab
 
   #### Programming paradigm
   I tend to favour functional over object oriented but really
-  it depends. Sometime good old procedural is the best fit.
+  it depends. Sometimes good old procedural is the best fit.
 
-  #### JS Runtime
+  #### JS Runtimes 
+  I know well all major JavaScript runtime: 
   Node.js, Browsers, ReactNative, LiquidCore, Deno  
 
   #### Front-end frameworks
-  React but I can work with anything... or nothing at all, I can build my own UI framework from scratch (not that it is very efficient to do so).  
+  I can build my own UI framework from scratch but I use React (or whatever is in place) because the wheel does not need to be reinvented.  
 
   #### Libraries
-  I would say RxJS but I am pushing my own alternative EVT so...  
+  I would say RxJS but I am pushing my own alternative: EVT.  
   I would also say lodash but here again I have my own little lib (that I haven't published yet)
 
   #### System security and Cryptography
-  I know how to implement symmetrical and asymmetrical encryption.
+  I know how to implement symmetrical and asymmetrical encryption.  
   Writing secure code is a major interest for me, I know and understand most of the common
   vulnerabilities in IT systems.
 
   #### System administration
-  Proficient with UNIX systems, SSH, systemd, NETDATA
+  Proficient with UNIX systems, SSH, systemd, NETDATA.  
   I have experience deploying using the different services of AWS.
 
   #### Language Theory
   I can write compilers and interpreters.
 
   #### Databases
-  I know how to design and query complex relational databases. 
+  I know how to design and query complex relational databases.  
   If given the choice, I use MySQL.
 
   #### Devops
   I know how to implement CD/CI. I know GitHub Actions features well.
 
   #### Network engeneering
-  Deep understanding of the TCP/IP stack and of how the web work in general.
+  Deep understanding of the TCP/IP stack and of how the web work in general. I can implements complex network protocol from RFC specs.
 
 
 # Footer

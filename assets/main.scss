@@ -11,6 +11,8 @@ body{
                 position: relative;
             }
 
+
+
             #twitter-widget-5, #twitter-widget-6{
                 display: none !important;
             }
@@ -242,6 +244,7 @@ body{
                     bottom: 302px;
                     left: 50%;
                 }
+
                 .projects-container{
                     width: 1030px !important;
                     .layout:nth-child(3){
@@ -291,6 +294,8 @@ body{
     }
 }
 
+
+
 @media screen and (max-width: 991px) and (min-width: 768px){
     body{
         .page-content{
@@ -310,6 +315,18 @@ body{
 
                         }
                     }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 768px){
+    body{
+        .page-content{
+            .wrapper{
+                .twitter-tweet{
+                    max-width: 498px !important;
                 }
             }
         }
