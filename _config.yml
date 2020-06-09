@@ -60,13 +60,13 @@ more_content: | # this will include new lines to allow paragraphs
 skills_title: Skills
 skills_content: |
   #### Languages with which I have a real expertise (try me)
-  JavaScript TypeScript
+  JavaScript, TypeScript
 
   #### Language with which I can be efficient on day one
   Java, C
 
   #### Languages with which I have some experience but I would need a couple of days to get fully efficient.
-  C# Python C++ ADA R Matlab... 
+  C#, Python, C++, ADA, R, Matlab
 
   #### Programming paradigm
   I tend to favour functional over object oriented but really
