@@ -21,11 +21,11 @@
     and
     <a target="_blank" style="text-align:center;" href="https://nodeweekly.com/issues/341">Node Weekly.</a>
   description: | 
-    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🦕 Another gem in the works!<a href="https://t.co/TgG9mZXunj">https://t.co/TgG9mZXunj</a></p>&mdash; deno (@deno_community) <a href="https://twitter.com/deno_community/status/1261634300887302144?ref_src=twsrc%5Etfw">May 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <!--<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🦕 Another gem in the works!<a href="https://t.co/TgG9mZXunj">https://t.co/TgG9mZXunj</a></p>&mdash; deno (@deno_community) <a href="https://twitter.com/deno_community/status/1261634300887302144?ref_src=twsrc%5Etfw">May 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Denoify: For NPM Module Authors That Would Like to Support Deno - <a href="https://t.co/Q1MvR1rx1x">https://t.co/Q1MvR1rx1x</a></p>&mdash; JavaScript Daily (@JavaScriptDaily) <a href="https://twitter.com/JavaScriptDaily/status/1269992074637688833?ref_src=twsrc%5Etfw">June 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">You can find the slides of our meetup:<br>- Talk 1: <a href="https://t.co/yb5SdLbGzY">https://t.co/yb5SdLbGzY</a><br>- Talk 2: <a href="https://t.co/wNRgTAIf45">https://t.co/wNRgTAIf45</a><br>- Talk 3: <a href="https://t.co/QBhDu7kxAw">https://t.co/QBhDu7kxAw</a><br><br>Also, the replay is available <a href="https://t.co/d20Dh161HD">https://t.co/d20Dh161HD</a><a href="https://twitter.com/hashtag/denoland?src=hash&amp;ref_src=twsrc%5Etfw">#denoland</a> <a href="https://twitter.com/hashtag/parisdeno?src=hash&amp;ref_src=twsrc%5Etfw">#parisdeno</a> <a href="https://twitter.com/hashtag/typescript?src=hash&amp;ref_src=twsrc%5Etfw">#typescript</a> <a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a></p>&mdash; ParisDeno (@ParisDeno) <a href="https://twitter.com/ParisDeno/status/1268260080991993856?ref_src=twsrc%5Etfw">June 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - layout: top-middle
   name: ts_ci
-  #link: github.com/garronej/denoify
   github: garronej/ts_ci
   quote: >
     A continuous integration setup that helps peoples publish and maintain well documented and well-tested NPM modules.
