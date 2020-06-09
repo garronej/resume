@@ -1,1 +1,1 @@
-[https://garronej.github.io/resume/](https://garronej.github.io/resume/)
+👉 [JOSEPH GARRONE'S RESUME](https://garronej.github.io/resume/)👈
