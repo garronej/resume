@@ -65,7 +65,7 @@ skills_content: |
   #### Language with which I can be efficient on day one
   Java, C
 
-  #### Languages with which I have some experience but I would need a couple of days to get fully efficient.
+  #### Languages with which I have some experience but I would need a couple of days to get fully efficient
   C#, Python, C++, ADA, R, Matlab
 
   #### Programming paradigm
@@ -78,10 +78,6 @@ skills_content: |
 
   #### Front-end frameworks
   I can build my own UI framework from scratch but I use React (or whatever is in place) because the wheel does not need to be reinvented.  
-
-  #### Libraries
-  I would say RxJS but I am pushing my own alternative: EVT.  
-  I would also say lodash but here again I have my own little lib (that I haven't published yet)
 
   #### System security and Cryptography
   I know how to implement symmetrical and asymmetrical encryption.  
@@ -103,7 +99,8 @@ skills_content: |
   I know how to implement CD/CI. I know GitHub Actions features well.
 
   #### Network engeneering
-  Deep understanding of the TCP/IP stack and of how the web work in general. I can implements complex network protocol from RFC specs.
+  Deep understanding of the TCP/IP stack and of how the web work in general.  
+  I can implements complex network protocol from RFC specs.
 
 
 # Footer
