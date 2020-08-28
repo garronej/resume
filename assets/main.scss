@@ -8,14 +8,30 @@ body{
     .page-content{
         .wrapper{
             .projects-container{
-                position: relative;
+                .flex-container{
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    > .twitter-tweet{
+                        margin: 10px;
+
+                    }
+                }
+            }
+
+            .fake-tweet{
+                > .rookoultabsContent{
+                    p{
+                        font-family: Helvetica;
+                    }
+
+                    img{
+                        width: 50px;
+                    }
+                }
             }
 
 
-
-            #twitter-widget-5, #twitter-widget-6{
-                display: none !important;
-            }
 
             .fakeTweet1{
                 .rookoultabsContent{
@@ -27,8 +43,10 @@ body{
             }
 
             .fakeTweet{
+                position: relative;
+                display: none;
 
-                position: absolute; 
+                //position: absolute; 
                 margin-left: 15px;
                 min-width: 220px;
                 width: 498px;
@@ -62,6 +80,7 @@ body{
                         }
         
                     }
+                    
         
                     p:hover{
                         color: rgb(108, 175, 197);
@@ -81,6 +100,7 @@ body{
                         top: 12px;
                         
                     }
+                    
                 }
         
                 .heartAndTime{
@@ -233,7 +253,7 @@ body{
 }
 
 
-@media screen and (min-width: 1200px){
+/*@media screen and (min-width: 1200px){
     body{
         .page-content{
             .wrapper{
@@ -435,5 +455,5 @@ body{
             }
         }
     }
-}
+}*/
 
