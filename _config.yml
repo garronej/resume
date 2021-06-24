@@ -46,9 +46,9 @@ about_content: |
   - Automating everything that can be using CI/CD and containerization.
   - Caring a great deal about software architecture. Writing code decoupled, implementing Clean Archi.
   - Rigorous implementation of strict typing and testing.
-  - Solving problems in isolation, writing documentation for my future self and the community and opensourcing.
+  - Solving problems in isolation, writing documentation for my future self and the community and open sourcing.
 
-  I choose to focus on the JavaScript ecosystem because it's the only language that run's everywhere 
+  I choose to focus on the JavaScript ecosystem because JS is the only language that runs everywhere 
   and I believe there are great benefits in using the same stack for backend frontend and scripting. 
 
 

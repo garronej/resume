@@ -1,3 +1,19 @@
+
+- layout: left
+  company: INSEE
+  link: insee.fr
+  job_title: EIG (Entrepreuneur d'interet general)
+  dates: Sep. 2020 - Current (contracted until Dec. 2021)
+  description: | 
+
+    I am the lead developer of Onyxia, a data science oriented container launcher. It's a web app that aims at being the glue 
+    between multiple open source backend technologies to provide a state of the art data analysis experience.
+
+    - Production: [datalab.sspcloud.fr](https://datalab.sspcloud.fr)
+    - GitHub: [InseeFrLab/onyxia-web](https://github.com/InseeFrLab/onyxia-web)
+
+    <iframe width="847" height="476" src="https://www.youtube.com/embed/ukMHBAXwzRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - layout: left
   company: Semasim
   link: www.semasim.com
