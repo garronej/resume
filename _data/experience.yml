@@ -12,7 +12,9 @@
     - Production: [datalab.sspcloud.fr](https://datalab.sspcloud.fr)
     - GitHub: [InseeFrLab/onyxia-web](https://github.com/InseeFrLab/onyxia-web)
 
-    <iframe width="847" height="476" src="https://www.youtube.com/embed/ukMHBAXwzRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="video-responsive">
+      <iframe width="847" height="476" src="https://www.youtube.com/embed/ukMHBAXwzRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
 - layout: left
   company: Semasim
