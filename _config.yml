@@ -36,20 +36,20 @@ linkedin_username: joseph-garrone-0b583490
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: |
-  Hello, I am a full-stack software engineer and there are my professional guidelines:
-  - Write Software that can be easily maintained.  
+  Hello, I am a full-stack software engineer. My professional guidelines are:
+  - Write easily maintainable Software.  
   - Build products that can evolve on the long run.  
   - Never solve the same problem twice.  
   - The end user experience is, if not the only, the n°1 focus.
 
   I achieve this by:
   - Automating everything that can be using CI/CD and containerization.
-  - Caring a great deal about software architecture. Writing code decoupled, implementing Clean Archi.
+  - Caring a great deal about software architecture. Writing code decoupled, implementing clean Architecture.
   - Rigorous implementation of strict typing and testing.
-  - Solving problems in isolation, writing documentation for my future self and the community and open sourcing.
+  - Solving problems in isolation, writing documentation for my future self and the community, open sourcing.
 
-  I choose to focus on the JavaScript ecosystem because JS is the only language that runs everywhere 
-  and I believe there are great benefits in using the same stack for backend frontend and scripting. 
+  I mainly work within the JavaScript ecosystem because JS is the only language that runs everywhere 
+  and I believe there are great benefits in using the same stack for backend, frontend and scripting. 
 
 
 # Projects Section
@@ -73,7 +73,7 @@ skills_title: Skills
 skills_content: |
   #### Programming paradigm
   I favor functional over object oriented and I can write an essay explaining why
-  but I happily work on OOP codebase when required to. 
+  but I happily work on OOP codebase. 
 
   #### System security and Cryptography
   I know how to implement symmetrical and asymmetrical encryption.  
