@@ -75,36 +75,29 @@ skills_content: |
   I favor functional over object oriented and I can write an essay explaining why
   but I happily work on OOP codebase when required to. 
 
-  #### JS Runtimes 
-  I know well all major JavaScript runtime: 
-  Node.js, Browsers, ReactNative, LiquidCore, Deno  
-
-  #### Front-end frameworks
-  I can build my own UI framework from scratch but I use React (or whatever is in place) because the wheel does not need to be reinvented.  
-
   #### System security and Cryptography
   I know how to implement symmetrical and asymmetrical encryption.  
   Writing secure code is a major interest for me, I know and understand most of the common
   vulnerabilities in IT systems.
+
+  #### Devops
+  I know how to implement CD/CI. I know GitHub Actions features well.
 
   #### System administration
   I prefer working using k8s and docker but I know UNIX system enough
   to deploy services without containerization. I am good at scripting.  
   I have have a lot of experience with AWS.
 
-  #### Language Theory
-  I can write compilers and interpreters.
-
   #### Databases
   I know how to design and query complex relational databases.  
   If given the choice, I use MySQL.
 
-  #### Devops
-  I know how to implement CD/CI. I know GitHub Actions features well.
-
   #### Network engineering
   Deep understanding of the TCP/IP stack and of how the web works in general.  
   I can implements complex network protocol from RFC specs.
+
+  #### Language Theory
+  I can write compilers and interpreters.
 
   #### Languages with which I have a real expertise (try me)
   JavaScript, TypeScript
@@ -114,6 +107,14 @@ skills_content: |
 
   #### Languages with which I have some experience but I would need a couple of week to get fully efficient with
   C#, Python, C++, ADA, R, Matlab
+
+  #### JS Runtimes 
+  I know well all major JavaScript runtime: 
+  Node.js, Browsers, ReactNative, LiquidCore, Deno  
+
+  #### Front-end frameworks
+  I have an expertise with React
+
 
 
 # Footer
