@@ -1,44 +1,176 @@
 
 - layout: left
   company: INSEE
-  link: insee.fr
-  job_title: EIG (Entrepreuneur d'interet general)
-  dates: Sep. 2020 - Current (contracted until Dec. 2021)
+  link: https://insee.fr
+  job_title: Architect logiciel / Tech Lead - Freelance
+  dates: Sep. 2023 - Present
   description: | 
 
-    I am the lead developer of Onyxia, a data science oriented container launcher. It's a web app that aims at being the glue 
-    between multiple open source backend technologies to provide a state of the art data analysis experience.
+    ## Onyxia - [onyxia.sh](https://onyxia.sh)  
 
-    - Production: [datalab.sspcloud.fr](https://datalab.sspcloud.fr)
-    - GitHub: [InseeFrLab/onyxia-web](https://github.com/InseeFrLab/onyxia-web)
+    *Logiciel pour crée des platfomes orienté Data*  
 
-    <div class="video-responsive">
-      <iframe width="847" height="476" src="https://www.youtube.com/embed/ukMHBAXwzRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
+    - Architecte de la stack navigateur et lead devloppeur.
+    - Responsable des aspect DevOps et documentation visant rendre le projet réutilisable.  
+    - Communication. Intervenant lors de conférences. Création de vidéos promotionelles et vlogs.  
+
+    <style>
+      details {
+        font-size: 20px;
+        border: 1px solid #ccc;
+        padding: 10px;
+        border-radius: 5px;
+      }
+      summary {
+        cursor: pointer;
+        font-weight: bold;
+        list-style: none;
+        user-select: none;
+      }
+      summary::before {
+        content: "▼";
+        display: inline-block;
+        margin-right: 7px;
+        transform: rotate(0deg);
+        transition: transform 0.2s ease-in-out;
+      }
+      details[open] summary::before {
+        transform: rotate(180deg);
+      }
+    </style>
+
+    <details>
+      <summary>Echos dans les médiats</summary>
+      <div style="display:flex;justify-content:center;align-items:center;">
+        <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Onyxia, un <a href="https://twitter.com/hashtag/LogicielLibre?src=hash&amp;ref_src=twsrc%5Etfw">#LogicielLibre</a> développé par le service public offre un environnement de travail conçu pour les data scientists.<br><br>L&#39;INSEE gère l&#39;instance dédiée aux étudiants et agents français : <a href="https://t.co/MIgA7o15mn">https://t.co/MIgA7o15mn</a><br><br>Des ressources CPU/GPU/RAM pour vos projets liés à la donnée  ! <a href="https://t.co/LUhaVf11BG">pic.twitter.com/LUhaVf11BG</a></p>&mdash; code.gouv.fr (@codegouvfr) <a href="https://twitter.com/codegouvfr/status/1745469504618909784?ref_src=twsrc%5Etfw">January 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <div style="width:30px;"></div>
+        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7088161856707522560" height="600" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+      </div>
+    </details>
+    <br/>
+
+- layout: left
+  company: DINUM
+  link: https://code.gouv.fr/
+  job_title: Architect logiciel / Tech Lead
+  dates: Jan. 2021 - Oct. 2023
+  description: | 
+
+    ## React-dsfr - [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
+
+    *Le toolkit React du design system de l'état.*  
+    Socle technique utilisé par de nombreux service publique, notament l'INSEE.  
+
+    - A l'origine du projet.
+    - Architect et le lead dev du projet.  
+    - Le projet bénéficie d'une communauté active de contributeurs. 
+
+    <details>
+      <summary>Echos dans les médiats</summary>
+      <div style="display:flex;justify-content:center;align-items:center;">
+        <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Pour faciliter l’adoption du système de design de l&#39;État 🇫🇷, la mission <a href="https://twitter.com/hashtag/LogicielsLibres?src=hash&amp;ref_src=twsrc%5Etfw">#LogicielsLibres</a> de la <a href="https://twitter.com/_DINUM?ref_src=twsrc%5Etfw">@_DINUM</a> publie une bibliothèque d’intégration <a href="https://twitter.com/hashtag/React?src=hash&amp;ref_src=twsrc%5Etfw">#React</a> dédiée : <a href="https://t.co/eC9c6xXAxO">https://t.co/eC9c6xXAxO</a><br><br>cc <a href="https://twitter.com/gouvernementFR?ref_src=twsrc%5Etfw">@gouvernementFR</a> <a href="https://twitter.com/BetaGouv?ref_src=twsrc%5Etfw">@BetaGouv</a> <a href="https://twitter.com/design_gouv?ref_src=twsrc%5Etfw">@design_gouv</a> <a href="https://twitter.com/Etalab?ref_src=twsrc%5Etfw">@Etalab</a> <a href="https://twitter.com/hashtag/OpenSource?src=hash&amp;ref_src=twsrc%5Etfw">#OpenSource</a> <a href="https://t.co/iidmb5vMC7">pic.twitter.com/iidmb5vMC7</a></p>&mdash; code.gouv.fr (@codegouvfr) <a href="https://twitter.com/codegouvfr/status/1605607912117772304?ref_src=twsrc%5Etfw">December 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <div style="width:30px;"></div>
+        <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Blown away by the French government&#39;s <a href="https://twitter.com/storybookjs?ref_src=twsrc%5Etfw">@storybookjs</a>. <br>Attention to detail &amp; craft, not too flashy, made to just work. <br><br>Vive la France!<a href="https://t.co/wIHDotUx0d">https://t.co/wIHDotUx0d</a> <a href="https://t.co/qPvrj1yx4Y">pic.twitter.com/qPvrj1yx4Y</a></p>&mdash; Dominic Nguyen (@domyen) <a href="https://twitter.com/domyen/status/1605642345495629831?ref_src=twsrc%5Etfw">December 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+      <div style="display:flex;justify-content:center;align-items:center;">
+        <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Un truc incroyable avec la France c&#39;est le retard démentiel qu&#39;on a globalement en terme de technologie civile, mais des fois, par la sainte grâce de Dieu, ou un coup de génie d&#39;un fonctionnaire illuminé, ils nous pondent des trucs comme France Connect ou ça. <a href="https://t.co/G27ivnj5qM">https://t.co/G27ivnj5qM</a></p>&mdash; 🇭𝒚𝒍𝒊𝒆𝒏 🌴 (@DigitalGanon) <a href="https://twitter.com/DigitalGanon/status/1618319167786209281?ref_src=twsrc%5Etfw">January 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+    </details>
+    <br/>
+    <br/>
+
+    ## Le Socle interministériel de logiciels libres - [code.gouv.fr/sill](https://code.gouv.fr/sill)
+
+    Platforme collaborative de resensement des logiciels libres utilisés par l'état.  
+
+    - Architect et lead dev du projet.  
+    - Plus de 1300 agent publique inscrit.  
+    - 441 logiciels libres référencés.  
+
+    <details>
+      <summary>Echos dans les médiats</summary>
+      <div style="display:flex;justify-content:center;align-items:center;">
+        <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">📢 Le nouveau socle interministériel de <a href="https://twitter.com/hashtag/LogicielsLibres?src=hash&amp;ref_src=twsrc%5Etfw">#LogicielsLibres</a> est là !<a href="https://t.co/eT8R36XBLO">https://t.co/eT8R36XBLO</a><br> <br>✨Au système de design de l&#39;État <br>🔍Une recherche par filtres plus efficace <br>🙋‍♂️Agents publics, créez-vous un compte... <br>💪... et participez à l&#39;évolution du SILL<br><br>🚀cc <a href="https://twitter.com/_DINUM?ref_src=twsrc%5Etfw">@_DINUM</a> <a href="https://twitter.com/Etalab?ref_src=twsrc%5Etfw">@Etalab</a> <a href="https://t.co/8tjrixHofx">pic.twitter.com/8tjrixHofx</a></p>&mdash; code.gouv.fr (@codegouvfr) <a href="https://twitter.com/codegouvfr/status/1656630134747561984?ref_src=twsrc%5Etfw">May 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <div style="width:30px;"></div>
+        <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@dealabs.com/video/7141039237935271173" data-video-id="7141039237935271173" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@dealabs.com" href="https://www.tiktok.com/@dealabs.com?refer=embed">@dealabs.com</a> Trop pratique, à enregistrer ✅ <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="viral" target="_blank" href="https://www.tiktok.com/tag/viral?refer=embed">#viral</a> <a title="education" target="_blank" href="https://www.tiktok.com/tag/education?refer=embed">#education</a> <a target="_blank" title="♬ son original - Dealabs - Bons Plans &#38; Astuces" href="https://www.tiktok.com/music/son-original-7141039212769446662?refer=embed">♬ son original - Dealabs - Bons Plans &#38; Astuces</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+      </div>
+      <div style="display:flex;justify-content:center;align-items:center;">
+        <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Le catalogue de logiciels libres recommandés pour l&#39;ensemble de l&#39;administration contient 378 logiciels libres … il y en a pour tous les goûts !<br><br>Eh, les agents de la fonction publique, vous pouvez en soumettre d&#39;autres 😜<br>👉 <a href="https://t.co/m5p6JvcNeZ">https://t.co/m5p6JvcNeZ</a> <a href="https://t.co/nU7iAzGsML">pic.twitter.com/nU7iAzGsML</a></p>&mdash; bearstech (@bearstech) <a href="https://twitter.com/bearstech/status/1661422600566734867?ref_src=twsrc%5Etfw">May 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+      <br/>
+      <a style="display:block;text-align:center;" href="https://www.silicon.fr/editorial/searchcontent/recherche=sill">Voire la liste des articles dans Silicon</a>
+    </details>
+
+- layout: left
+  company: INSEE
+  link: insee.fr
+  job_title: EIG (Entrepreuneur d'interet general)
+  dates: Septembre 2020 - Decembre 2021
+  description: | 
+
+    Developpeur du trio Designer/Data Scientist/Devloppeur recruté sur une mission de 10 mois (puis prolongé) pour travailler sur le projet Onyxia.  
+    Au cour de cett mission le code a été complétement réecirt, l'interface repensée et le projet est devenu logiciel open source réutilisable.  
+
+    <details>
+      <summary>Video</summary>
+      <br />
+      <div class="video-responsive">
+        <iframe width="847" height="476" src="https://www.youtube.com/embed/ukMHBAXwzRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </details>
 
 - layout: left
   company: Semasim
-  link: www.semasim.com
-  job_title: Founder, CTO
-  dates: 2017 - Current
+  link: Semasim.com
+  job_title: Fondateur, CTO
+  dates: Septembre 2015 - Aout 2020
   description: | 
-    _One Phone, Multiple SIM Cards_  
+    
+    Création de [la société de télécommunication Semasim](https://www.semasim.com) permetant entre autres a un groupe
+    de colaborateur de partage une même carte SIM ou d'avoir virtuellement plusieur numéro de téléphone sur un même appareil.  
+    La solution implémente une encryption de bout en bout.  
 
-    ![semasim1](/resume/images/semasim1.jpg)
-    ![semasim2](/resume/images/semasim2.jpg)
+    J'ai débuter le projet alors que j'etais encore étudiant a l'instutut polytechnique de Turin dans le cadre d'un projet 
+    visant a accompagné les étudiants dans la création de leur entreprise.  
 
-    Semasim is a tech company centred around a GSM gateway app. It enables users to make use of SIM cards that are not inside their phones. 
+    - Développement de l'application mobile et web.
+    - Développement de l'application serveur.
+    - Développement du pilote pour les modems GSM. 
+    - Gestion du déploiement et de la maintenance de l'infrastructure.  
+    - Gestion de la communication, des partenariats et de la recherche de financement.  
 
-    The main benefits of this application are to enable users to use any phone as a dual or triple sim phone and to save on roaming fees when travelling abroad.
+    <details>
+      <summary>Video presentation</summary>
+        <br />
+        <div style="display:flex;justify-content:center;align-items:center;">
+          <iframe width="847" height="450" src="https://www.youtube.com/embed/EN-my9QZ9ww?si=GGNbC4m7SKlcDO3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <br />
+        <img src="images/semasim1.jpg" alt="semasim1" style="width:100%">
+        <img src="images/semasim2.jpg" alt="semasim1" style="width:100%">
+    </details>
 
 - layout: left
   company: CIHEAM
   link: www.ciheam.org
   job_title: Full-stack dev
-  dates: Jul 2014 - Oct 2014
+  dates: Avril 2014 - Juin 2015
   description: | 
-    _Building a Data viz web app that helps farmer evaluate the impact of different insecticide on their health and on the environment_
+    D'une application web de visualisation de données qui aide les agriculteurs à évaluer l'impact de différents 
+    insecticides sur leur santé et sur l'environnement.  
 
-    Second-year engineering's school internship. 
-    We started from scratch, [this is](https://www.youtube.com/watch?v=Moax81M6BEA) the result we got after two months of work, a fellow ENSIMAG student and I. 
-    [This is](https://etophy.fr) the product today.
+    - Etablissement du cahier des charges.  
+    - Choix de la stack technique.
+    - Conseption de l'experience utilisateur.  
+    - Développement de la partie front-end de l'application.  
+
+    J'ai été recruté en tant que stagiaire puis ai continuer en tant que freelance.  
+
+    <details>
+      <br />
+      <summary>Vidéo de présentation</summary>
+      <iframe width="800" height="700" src="https://www.youtube.com/embed/Moax81M6BEA?si=FvxKB-jBgBHlwl9l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </details>
+    <br />
+    <br />
+

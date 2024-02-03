@@ -1,10 +1,11 @@
 # Site
 repository: garronej/resume
 favicon: images/favicon.ico
+baseurl: "/resume"
 
 # Personal info
 name: Joseph Garrone
-title: Software engineer
+title: Ingénieur logiciel / Architecte logiciel
 email: joseph.garrone@protonmail.com
 phone: +33 6 36 78 63 85
 website: https://garronej.github.io/resume
@@ -13,7 +14,7 @@ website: https://garronej.github.io/resume
 darkmode: never
 
 # Social links
-twitter_username: GarroneJoseph
+#twitter_username: GarroneJoseph
 github_username:  garronej
 linkedin_username: joseph-garrone-0b583490
 
@@ -33,89 +34,48 @@ linkedin_username: joseph-garrone-0b583490
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_title: Profile
+about_profile_image: images/profile.png
 about_content: |
-  Hello, I am a full-stack software engineer. My professional guidelines are:
-  - Write easily maintainable Software.  
-  - Build products that can evolve on the long run.  
-  - Never solve the same problem twice.  
-  - The end user experience is, if not the only, the n°1 focus.
+  Je suis un ingénieur logiciel avec [plus de 10 ans d'expérience](https://github.com/garronej#js-contribution-activity).  
+  Je suis [le contributeurs open source le plus actif de France](https://committers.top/france)*.  
+  Je figure en 3e position dans [le classement mondial des experts TypeScript](https://profile.codersrank.io/leaderboard/developer?technology=TypeScript) 
+  de CodersRank (parmi plus de 116 000).  
+  Mes bibliothèques open source sont [téléchargées plus d'un million de fois chaque mois](https://npm-stat.com/charts.html?author=garronej&from=2020-02-01&to=2024-01-31).  
 
-  I achieve this by:
-  - Automating everything that can be using CI/CD and containerization.
-  - Caring a great deal about software architecture. Writing code decoupled, implementing clean Architecture.
-  - Rigorous implementation of strict typing and testing.
-  - Solving problems in isolation, writing documentation for my future self and the community, open sourcing.
-
-  I mainly work within the JavaScript ecosystem because JS is the only language that runs everywhere 
-  and I believe there are great benefits in using the same stack for backend, frontend and scripting. 
-
+  <i>* Le classement est mis a jour régulièrement il est possible que ma position est changé.</i>
 
 # Projects Section
-projects_title: Open source work highlights
+#projects_title: Open source work highlights
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Etudes 
 
 # More Section
-more_title: Languages
+more_title: Langues
 more_content: | # this will include new lines to allow paragraphs
-  - Mother tongue is __French__
-  - I am fluent in __English__ although my phonetic is terrible and my speech rate is slow.
-  - Fluent in __Spanish__ as well I but have few occasions to practice, I might be a bit rusty
-  - I am dyslexic, my spelling is terrible but [Antidote](https://www.antidote.info/fr) does wonders.
+  Dans un contexte professionnel, je communique principalement en anglais. 
+  Si vous désiez évaluer mon niveau d'aisance a l'oral vous pouvez [consulter ce vlog](https://youtu.be/Ou2I4oWuUj8?si=1hnHjlsXzj4MY9kK).  
+  Je comprends et parle également l'espagnol.
 
-skills_title: Skills
+skills_title: Domaine d'expertise
 skills_content: |
-  #### Programming paradigm
-  I favor functional over object oriented and I can write an essay explaining why
-  but I happily work on OOP codebase. 
-
-  #### System security and Cryptography
-  I know how to implement symmetrical and asymmetrical encryption.  
-  Writing secure code is a major interest for me, I know and understand most of the common
-  vulnerabilities in IT systems.
-
-  #### Devops
-  I know how to implement CD/CI. I know GitHub Actions features well.
-
-  #### System administration
-  I prefer working using k8s and docker but I know UNIX system enough
-  to deploy services without containerization. I am good at scripting.  
-  I have have a lot of experience with AWS.
-
-  #### Databases
-  I know how to design and query complex relational databases.  
-  If given the choice, I use MySQL.
-
-  #### Network engineering
-  Deep understanding of the TCP/IP stack and of how the web works in general.  
-  I can implements complex network protocol from RFC specs.
-
-  #### Language Theory
-  I can write compilers and interpreters.
-
-  #### Languages with which I have a real expertise (try me)
-  JavaScript, TypeScript
-
-  #### Language with which I can be efficient on day one
-  Java, C
-
-  #### Languages with which I have some experience but I would need a couple of week to get fully efficient with
-  C#, Python, C++, ADA, R, Matlab
-
-  #### JS Runtimes 
-  I know well all major JavaScript runtime: 
-  Node.js, Browsers, ReactNative, LiquidCore, Deno  
-
-  #### Front-end frameworks
-  I have an expertise with React
-
-
+  - Architecture logicielle
+  - Développement logiciel, Frontend, Backend, CLI et embarqué.  
+    Langage privilégier: TypeScript et Java.  
+  - CI/CD automatisation, packaging, déploiement.
+  - Sécurité informatique, Keycloak, methodes d'encription.  
+  - Mise en production d'applicatif: Kubernetes, Docker.  
+  - Concéption et géstioin de base de données relationnelles.  
+  - Pilotage de projet open source et de communautées.  
+  - Connaissance approfondie des réseaux et des protocoles.  
+  - Théorie des langages, compilation, interprétation.  
+  - Production de contenu technique, documentation, tutoriels.  
+  - Réalisation de vidéos promotionelles.  
+  - Socle de conaissance mathematique solide.  
 
 # Footer
 footer_show_references: false
