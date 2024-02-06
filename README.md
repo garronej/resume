@@ -6,3 +6,6 @@
 bundle install
 bundle exec jekyll serve
 ```
+
+Export to PDF using: https://webtopdf.com/  
+Decreace zoom level
