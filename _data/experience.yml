@@ -1,9 +1,11 @@
 - layout: left
-  company: INSEE
-  link: https://insee.fr
-  job_title: Architecte logiciel / Tech Lead - Freelance
+  company: INOPS - Freelance
+  link: https://inops.fr/
+  job_title: Architecte logiciel / Tech Lead
   dates: 2023 - Present
   description: | 
+
+    Prestation freelance pour l'INSEE via INOPS.  
 
     ## Onyxia - [onyxia.sh](https://onyxia.sh)  
 
@@ -114,7 +116,7 @@
       <summary>Vidéo</summary>
       <br />
       <div class="video-responsive">
-        <iframe width="847" height="476" src="https://www.youtube.com/embed/ukMHBAXwzRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="847" height="476" src="https://www.youtube.com/embed/Lo7hkKS0bqo?si=EeTALbRv7-wXl-Ma" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
     </details>
 
