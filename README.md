@@ -7,5 +7,4 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Export to PDF using: https://webtopdf.com/  
-Decreace zoom level
+Voir release pour export PDF: https://github.com/garronej/resume/releases/tag/pdf_export  

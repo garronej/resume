@@ -5,7 +5,7 @@ baseurl: "/resume"
 
 # Personal info
 name: Joseph Garrone
-title: Ingénieur logiciel / Architecte logiciel
+title: Ingénieur logiciel 
 email: joseph.garrone@protonmail.com
 phone: +33 6 36 78 63 85
 #website: https://garronej.github.io/resume
@@ -37,7 +37,7 @@ linkedin_username: joseph-garrone-0b583490
 about_title: Profil
 about_profile_image: images/profile.png
 about_content: |
-  Ingénieur logiciel avec [plus de 10 ans d'expérience](https://github.com/garronej#js-contribution-activity), je suis [l'un des contributeurs open source les plus actifs de France](https://committers.top/france).  
+  Ingénieur logiciel avec [plus de 10 ans d'expérience en conception et développement logiciel](https://github.com/garronej#js-contribution-activity), je suis [l'un des contributeurs open source les plus actifs de France](https://committers.top/france).  
   Classé [3e au niveau mondial parmi les experts TypeScript sur CodersRank](https://profile.codersrank.io/leaderboard/developer?technology=TypeScript), j'ai une présence significative dans la communauté avec mes [bibliothèques open source, téléchargées plus d'un million de fois chaque mois](#oss_experience).  
 
 # Projects Section
