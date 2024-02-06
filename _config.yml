@@ -15,7 +15,7 @@ darkmode: never
 
 # Social links
 #twitter_username: GarroneJoseph
-github_username:  garronej
+github_username: garronej
 linkedin_username: joseph-garrone-0b583490
 
 # Additional icon links
@@ -34,51 +34,46 @@ linkedin_username: joseph-garrone-0b583490
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: Profile
+about_title: Profil
 about_profile_image: images/profile.png
 about_content: |
-  Je suis un ingénieur logiciel avec [plus de 10 ans d'expérience](https://github.com/garronej#js-contribution-activity).  
-  Je suis [fait parti des contributeurs open source les plus actif de France](https://committers.top/france).  
-  Je figure en 3e position dans [le classement mondial des experts TypeScript](https://profile.codersrank.io/leaderboard/developer?technology=TypeScript) 
-  de CodersRank (parmi plus de 116 000).  
-  Mes bibliothèques open source sont [téléchargées plus d'un million de fois chaque mois](https://npm-stat.com/charts.html?author=garronej&from=2020-02-01&to=2024-01-31).  
+  Ingénieur logiciel avec plus de 10 ans d'expérience, je suis l'un des contributeurs open source les plus actifs de France, comme en témoigne ma participation sur [GitHub](https://github.com/garronej#js-contribution-activity).  
+  Classé 3e au niveau mondial parmi les experts TypeScript sur [CodersRank](https://profile.codersrank.io/leaderboard/developer?technology=TypeScript), j'ai une présence significative dans la communauté avec mes bibliothèques open source, téléchargées plus d'un million de fois chaque mois.  
 
 # Projects Section
 #projects_title: Open source work highlights
 
 # Experience Section
-experience_title: Experience professionnel
+experience_title: Expérience professionnelle
 
-oss_experience_title: Projets open sources
+oss_experience_title: Projets open source
 oss_experience_description: |
-  Séléction non exhaustives de projets open source largement réutilisé dans l'industrie.  
+  Sélection non exhaustive de projets open source largement réutilisés dans l'industrie.  
 
 # Education Section
-education_title: Etudes 
+education_title: Études
 
-
-skills_title: Domaine d'expertise
+skills_title: Domaines d'expertise
 skills_content: |
-  - Architecture logicielle
-  - Développement logiciel, Frontend, Backend, CLI et embarqué.  
-    Langage privilégier: TypeScript et Java.  
-  - CI/CD automatisation, packaging, déploiement.
-  - Sécurité informatique, Keycloak, methodes d'encription.  
-  - Mise en production d'applicatif: Kubernetes, Docker.  
-  - Concéption et géstioin de base de données relationnelles.  
-  - Pilotage de projet open source et de communautées.  
-  - Connaissance approfondie des réseaux et des protocoles.  
-  - Théorie des langages, compilation, interprétation.  
-  - Production de contenu technique, documentation, tutoriels.  
-  - Réalisation de vidéos promotionelles.  
-  - Socle de conaissance mathematique solide.  
+  - Architecture et développement logiciel : Frontend, Backend, CLI et embarqué.
+    Langages de prédilection : TypeScript et Java.
+  - Automatisation CI/CD, packaging, déploiement.
+  - Sécurité informatique, Keycloak, méthodes de chiffrement.
+  - Mise en production d'applications : Kubernetes, Docker.
+  - Conception et gestion de bases de données relationnelles.
+  - Gestion de projets open source et de communautés.
+  - Connaissance approfondie des réseaux et des protocoles.
+  - Théorie des langages, compilation, interprétation.
+  - Production de contenu technique : documentation, tutoriels.
+  - Création de vidéos promotionnelles.
+  - Solide base de connaissances mathématiques.  
 
 # More Section
 more_title: Langues
 more_content: | # this will include new lines to allow paragraphs
-  Dans un contexte professionnel, je communique principalement en anglais.  
-  Si vous désiez évaluer mon niveau d'aisance a l'oral vous pouvez [consulter ce vlog](https://youtu.be/Ou2I4oWuUj8?si=1hnHjlsXzj4MY9kK).  
-  Je comprends et parle également l'espagnol.  
+  Professionnellement, je communique principalement en anglais.  
+  Pour évaluer mon aisance à l'oral, vous pouvez [consulter ce vlog](https://youtu.be/Ou2I4oWuUj8?si=1hnHjlsXzj4MY9kK).  
+  Je comprends également l'espagnol et suis capable de communiquer dans cette langue.  
 
 # Footer
 footer_show_references: false
