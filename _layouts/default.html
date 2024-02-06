@@ -20,8 +20,8 @@
         {%- include experience.html -%}
       {%- endif -%}
 
-      {%- if site.data.education.size > 0 -%}
-        {%- include education.html -%}
+      {%- if site.data.oss_experience.size > 0 -%}
+        {%- include oss_experience.html -%}
       {%- endif -%}
 
       <!--
@@ -30,13 +30,18 @@
       {%- endif -%}
       -->
 
-      {%- if site.more_content -%}
-        {%- include more.html -%}
+      {%- if site.data.education.size > 0 -%}
+        {%- include education.html -%}
       {%- endif -%}
 
       {%- if site.skills_content -%}
         {%- include skills.html -%}
       {%- endif -%}
+
+      {%- if site.more_content -%}
+        {%- include more.html -%}
+      {%- endif -%}
+
 
     </div>
   </main>

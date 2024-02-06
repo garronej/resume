@@ -38,28 +38,24 @@ about_title: Profile
 about_profile_image: images/profile.png
 about_content: |
   Je suis un ingénieur logiciel avec [plus de 10 ans d'expérience](https://github.com/garronej#js-contribution-activity).  
-  Je suis [le contributeurs open source le plus actif de France](https://committers.top/france)*.  
+  Je suis [fait parti des contributeurs open source les plus actif de France](https://committers.top/france).  
   Je figure en 3e position dans [le classement mondial des experts TypeScript](https://profile.codersrank.io/leaderboard/developer?technology=TypeScript) 
   de CodersRank (parmi plus de 116 000).  
   Mes bibliothèques open source sont [téléchargées plus d'un million de fois chaque mois](https://npm-stat.com/charts.html?author=garronej&from=2020-02-01&to=2024-01-31).  
-
-  <i>* Le classement est mis a jour régulièrement il est possible que ma position est changé.</i>
 
 # Projects Section
 #projects_title: Open source work highlights
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+experience_title: Experience professionnel
+
+oss_experience_title: Projets open sources
+oss_experience_description: |
+  Séléction non exhaustives de projets open source largement réutilisé dans l'industrie.  
 
 # Education Section
 education_title: Etudes 
 
-# More Section
-more_title: Langues
-more_content: | # this will include new lines to allow paragraphs
-  Dans un contexte professionnel, je communique principalement en anglais. 
-  Si vous désiez évaluer mon niveau d'aisance a l'oral vous pouvez [consulter ce vlog](https://youtu.be/Ou2I4oWuUj8?si=1hnHjlsXzj4MY9kK).  
-  Je comprends et parle également l'espagnol.
 
 skills_title: Domaine d'expertise
 skills_content: |
@@ -76,6 +72,13 @@ skills_content: |
   - Production de contenu technique, documentation, tutoriels.  
   - Réalisation de vidéos promotionelles.  
   - Socle de conaissance mathematique solide.  
+
+# More Section
+more_title: Langues
+more_content: | # this will include new lines to allow paragraphs
+  Dans un contexte professionnel, je communique principalement en anglais.  
+  Si vous désiez évaluer mon niveau d'aisance a l'oral vous pouvez [consulter ce vlog](https://youtu.be/Ou2I4oWuUj8?si=1hnHjlsXzj4MY9kK).  
+  Je comprends et parle également l'espagnol.  
 
 # Footer
 footer_show_references: false

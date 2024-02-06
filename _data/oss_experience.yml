@@ -1,0 +1,114 @@
+
+- layout: left
+  company: Keycloakify
+  link: https://keycloakify.dev
+  #job_title: 🔏 Create Keycloak themes using React
+  #dates: 2021
+  description: | 
+
+    ## Keycloakify - [Dépot GitHub](https://github.com/keycloakify/keycloakify)
+
+    *Framwork de customisation pour Keycloak*  
+
+    - **1 130** étoiles sur GitHub.
+    - [**32 000** téléchargements par mois.](https://www.npmjs.com/package/keycloakify)  
+    - Réutilisations notable:  
+      - Utiliser par des centaines d'entreprises. Notament [Corsair](https://corsair.com) qui contribue au projet.  
+      - INSEE: Page de login du [sspcloud.fr](https://datalab.sspcloud.fr)
+      - DINUM: [Pages de connexions au DSFR de plusieurs site web en code.gouv.fr](https://github.com/codegouvfr/keycloak-theme-dsfr)
+
+#<style>
+#  details {
+#    font-size: 20px;
+#    border: 1px solid #ccc;
+#    padding: 10px;
+#    border-radius: 5px;
+#  }
+#  summary {
+#    cursor: pointer;
+#    font-weight: bold;
+#    list-style: none;
+#    user-select: none;
+#  }
+#  summary::before {
+#    content: "▼";
+#    display: inline-block;
+#    margin-right: 7px;
+#    transform: rotate(0deg);
+#    transition: transform 0.2s ease-in-out;
+#  }
+#  details[open] summary::before {
+#    transform: rotate(180deg);
+#  }
+#</style>
+
+#<details>
+#  <summary>Video</summary>
+#  <div style="display:flex;justify-content:center;align-items:center;">
+#    <iframe width="600" height="504" src="https://www.youtube.com/embed/x3ux2JM1Bxk?si=c4K79lLCbSI4Rf_m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+#  </div>
+#</details>
+#<br/>
+
+- layout: left
+  company: tss-react
+  link: https://tss-react.dev
+  #job_title: ""
+  #dates: 2021
+  description: | 
+
+    ## TSS - [Dépot GitHub](https://github.com/garronej/tss-react)
+
+    *Solution CSS*  
+
+    - [**710 000** Téléchargement par mois sur NPM](https://www.npmjs.com/package/tss-react).  
+    - [Utilisé par plus de 6 200 projets open sources](https://github.com/garronej/tss-react/network/dependents).  
+
+- layout: left
+  company: Denoify
+  link: https://denoify.land
+  #job_title: ""
+  #dates: 2020
+  description: | 
+
+    ## Denoify - [Dépot GitHub](https://github.com/garronej/denoify)
+
+    *Transpilateur Node vers Deno*  
+
+    - **914** Etoiles sur GitHub.
+    - Projets star utilisant Denoify:  
+      - [Hono](https://hono.dev/)  
+      - [NanoJSX](https://nanojsx.io/)
+      - [Eta](https://eta.js.org/)  
+      *Remarquez que le premier argument de vente de ces librairies est "Runs everywhere (Node, Deno...)"  
+      Ceci est grâce a Denoify*
+
+- layout: left
+  company: EVT
+  link: https://evt.land
+  #job_title: Fondateur, CTO
+  #dates: Septembre 2015 - Aout 2020
+  description: | 
+    
+    ## EVT - [Dépot GitHub](https://github.com/garronej/denoify)
+
+    *Librairie de programation reactive*  
+
+    - [**91 000** Téléchargement par mois](https://www.npmjs.com/package/evt).
+    - Utilisé par des entreprise comme [Connex](https://www.connext.network/) ou [The Graph](https://thegraph.com/). Consulter [les témoigniages](https://www.evt.land/).  
+    - ["Popular" sur Deno.land](https://deno.land/x/evt).  
+
+- layout: left
+  company: tsafe
+  link: https://tsafe.dev
+  #job_title: Fondateur, CTO
+  #dates: Septembre 2015 - Aout 2020
+  description: | 
+    
+    ## Tsafe - [Dépot GitHub](https://github.com/garronej/tsafe)
+
+    *Librairie d'utilitaire TypeScript*  
+
+    - [**46 000** Téléchargement par mois](https://www.npmjs.com/package/tsafe).  
+
+

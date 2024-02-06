@@ -3,7 +3,7 @@
   company: INSEE
   link: https://insee.fr
   job_title: Architect logiciel / Tech Lead - Freelance
-  dates: Sep. 2023 - Present
+  dates: 2023 - Present
   description: | 
 
     ## Onyxia - [onyxia.sh](https://onyxia.sh)  
@@ -53,7 +53,7 @@
   company: DINUM
   link: https://code.gouv.fr/
   job_title: Architect logiciel / Tech Lead
-  dates: Jan. 2021 - Oct. 2023
+  dates: 2021 - 2023
   description: | 
 
     ## React-dsfr - [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
@@ -61,7 +61,7 @@
     *Le toolkit React du design system de l'état.*  
     Socle technique utilisé par de nombreux service publique, notament l'INSEE.  
 
-    - A l'origine du projet.
+    - Instigateur du projet.  
     - Architect et le lead dev du projet.  
     - Le projet bénéficie d'une communauté active de contributeurs. 
 
@@ -105,7 +105,7 @@
   company: INSEE
   link: insee.fr
   job_title: EIG (Entrepreuneur d'interet general)
-  dates: Septembre 2020 - Decembre 2021
+  dates: 2020 - 2021
   description: | 
 
     Developpeur du trio Designer/Data Scientist/Devloppeur recruté sur une mission de 10 mois (puis prolongé) pour travailler sur le projet Onyxia.  
@@ -123,7 +123,7 @@
   company: Semasim
   link: Semasim.com
   job_title: Fondateur, CTO
-  dates: Septembre 2015 - Aout 2020
+  dates: 2015 - 2020
   description: | 
     
     Création de [la société de télécommunication Semasim](https://www.semasim.com) permetant entre autres a un groupe
@@ -154,7 +154,7 @@
   company: CIHEAM
   link: www.ciheam.org
   job_title: Full-stack dev
-  dates: Avril 2014 - Juin 2015
+  dates: 2014 - 2015
   description: | 
     D'une application web de visualisation de données qui aide les agriculteurs à évaluer l'impact de différents 
     insecticides sur leur santé et sur l'environnement.  
