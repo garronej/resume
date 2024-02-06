@@ -1,6 +1,6 @@
 - layout: left
   company: INOPS - Freelance
-  link: https://inops.fr/
+  link: inops.fr
   job_title: Architecte logiciel / Tech Lead
   dates: 2023 - Present
   description: | 
@@ -52,7 +52,7 @@
 
 - layout: left
   company: DINUM
-  link: https://code.gouv.fr/
+  link: code.gouv.fr
   job_title: Architecte logiciel / Tech Lead
   dates: 2021 - 2023
   description: | 

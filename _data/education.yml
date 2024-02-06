@@ -1,12 +1,13 @@
-#- layout: left
-#  name: Polito
-#  dates: 2015 - 2016
-#  qualification: Software engineering master's degree 
-#  description: | 
-#    _Université polytechnique de Turin_
-#
-#    - Double diplôme avec l'ENSIMAG
-#    - Note final a l'optention du diplôme: 101/110.
+- layout: left
+  name: Polito
+  dates: 2014 - 2016
+  qualification: Diplôme d'ingénieur (Italien)
+  description: | 
+    _Université polytechnique de Turin_
+
+    - Double diplôme avec l'ENSIMAG
+    - Accompagnement académique à la création de mon entreprise Semasim.  
+    - Note finale à l'obtention du diplôme : 101/110.
 - layout: left
   name: ENSIMAG
   dates: 2012 - 2014
