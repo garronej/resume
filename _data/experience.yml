@@ -15,41 +15,6 @@
     - Responsable des aspects DevOps et de la documentation pour rendre le projet réutilisable.  
     - Communication : Intervenant lors de conférences et création de vidéos promotionnelles et vlogs.  
 
-    <style>
-      details {
-        font-size: 20px;
-        border: 1px solid #ccc;
-        padding: 10px;
-        border-radius: 5px;
-      }
-      summary {
-        cursor: pointer;
-        font-weight: bold;
-        list-style: none;
-        user-select: none;
-      }
-      summary::before {
-        content: "▼";
-        display: inline-block;
-        margin-right: 7px;
-        transform: rotate(0deg);
-        transition: transform 0.2s ease-in-out;
-      }
-      details[open] summary::before {
-        transform: rotate(180deg);
-      }
-    </style>
-
-    <details>
-      <summary>Échos dans les médias</summary>
-      <div style="display:flex;justify-content:center;align-items:center;">
-        <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Onyxia, un <a href="https://twitter.com/hashtag/LogicielLibre?src=hash&amp;ref_src=twsrc%5Etfw">#LogicielLibre</a> développé par le service public offre un environnement de travail conçu pour les data scientists.<br><br>L'INSEE gère l'instance dédiée aux étudiants et agents français : <a href="https://t.co/MIgA7o15mn">https://t.co/MIgA7o15mn</a><br><br>Des ressources CPU/GPU/RAM pour vos projets liés à la donnée  ! <a href="https://t.co/LUhaVf11BG">pic.twitter.com/LUhaVf11BG</a></p>&mdash; code.gouv.fr (@codegouvfr) <a href="https://twitter.com/codegouvfr/status/1745469504618909784?ref_src=twsrc%5Etfw">January 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        <div style="width:30px;"></div>
-        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7088161856707522560" height="600" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
-      </div>
-    </details>
-    <br/>
-
 - layout: left
   company: DINUM
   link: code.gouv.fr
@@ -66,18 +31,6 @@
     - Architecte et lead dev du projet.  
     - Le projet bénéficie d'une communauté active de contributeurs. 
 
-    <details>
-      <summary>Échos dans les médias</summary>
-      <div style="display:flex;justify-content:center;align-items:center;">
-        <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Pour faciliter l’adoption du système de design de l'État 🇫🇷, la mission <a href="https://twitter.com/hashtag/LogicielsLibres?src=hash&amp;ref_src=twsrc%5Etfw">#LogicielsLibres</a> de la <a href="https://twitter.com/_DINUM?ref_src=twsrc%5Etfw">@_DINUM</a> publie une bibliothèque d’intégration <a href="https://twitter.com/hashtag/React?src=hash&amp;ref_src=twsrc%5Etfw">#React</a> dédiée : <a href="https://t.co/eC9c6xXAxO">https://t.co/eC9c6xXAxO</a><br><br>cc <a href="https://twitter.com/gouvernementFR?ref_src=twsrc%5Etfw">@gouvernementFR</a> <a href="https://twitter.com/BetaGouv?ref_src=twsrc%5Etfw">@BetaGouv</a> <a href="https://twitter.com/design_gouv?ref_src=twsrc%5Etfw">@design_gouv</a> <a href="https://twitter.com/Etalab?ref_src=twsrc%5Etfw">@Etalab</a> <a href="https://twitter.com/hashtag/OpenSource?src=hash&amp;ref_src=twsrc%5Etfw">#OpenSource</a> <a href="https://t.co/iidmb5vMC7">pic.twitter.com/iidmb5vMC7</a></p>&mdash; code.gouv.fr (@codegouvfr) <a href="https://twitter.com/codegouvfr/status/1605607912117772304?ref_src=twsrc%5Etfw">December 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        <div style="width:30px;"></div>
-        <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Blown away by the French government's <a href="https://twitter.com/storybookjs?ref_src=twsrc%5Etfw">@storybookjs</a>. <br>Attention to detail & craft, not too flashy, made to just work. <br><br>Vive la France!<a href="https://t.co/wIHDotUx0d">https://t.co/wIHDotUx0d</a> <a href="https://t.co/qPvrj1yx4Y">pic.twitter.com/qPvrj1yx4Y</a></p>&mdash; Dominic Nguyen (@domyen) <a href="https://twitter.com/domyen/status/1605642345495629831?ref_src=twsrc%5Etfw">December 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
-      <div style="display:flex;justify-content:center;align-items:center;">
-        <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Un truc incroyable avec la France c'est le retard démentiel qu'on a globalement en terme de technologie civile, mais des fois, par la sainte grâce de Dieu, ou un coup de génie d'un fonctionnaire illuminé, ils nous pondent des trucs comme France Connect ou ça. <a href="https://t.co/G27ivnj5qM">https://t.co/G27ivnj5qM</a></p>&mdash; 🇭𝒚𝒍𝒊𝒆𝒏 🌴 (@DigitalGanon) <a href="https://twitter.com/DigitalGanon/status/1618319167786209281?ref_src=twsrc%5Etfw">January 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
-    </details>
-    <br/>
     <br/>
 
     ## Le Socle interministériel de logiciels libres - [code.gouv.fr/sill](https://code.gouv.fr/sill)
@@ -88,20 +41,6 @@
     - Plus de 1300 agents publics inscrits.  
     - 441 logiciels libres référencés.  
 
-    <details>
-      <summary>Échos dans les médias</summary>
-      <div style="display:flex;justify-content:center;align-items:center;">
-        <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">📢 Le nouveau socle interministériel de <a href="https://twitter.com/hashtag/LogicielsLibres?src=hash&amp;ref_src=twsrc%5Etfw">#LogicielsLibres</a> est là !<a href="https://t.co/eT8R36XBLO">https://t.co/eT8R36XBLO</a><br> <br>✨Au système de design de l'État <br>🔍Une recherche par filtres plus efficace <br>🙋‍♂️Agents publics, créez-vous un compte... <br>💪... et participez à l'évolution du SILL<br><br>🚀cc <a href="https://twitter.com/_DINUM?ref_src=twsrc%5Etfw">@_DINUM</a> <a href="https://twitter.com/Etalab?ref_src=twsrc%5Etfw">@Etalab</a> <a href="https://t.co/8tjrixHofx">pic.twitter.com/8tjrixHofx</a></p>&mdash; code.gouv.fr (@codegouvfr) <a href="https://twitter.com/codegouvfr/status/1656630134747561984?ref_src=twsrc%5Etfw">May 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        <div style="width:30px;"></div>
-        <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@dealabs.com/video/7141039237935271173" data-video-id="7141039237935271173" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@dealabs.com" href="https://www.tiktok.com/@dealabs.com?refer=embed">@dealabs.com</a> Trop pratique, à enregistrer ✅ <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="viral" target="_blank" href="https://www.tiktok.com/tag/viral?refer=embed">#viral</a> <a title="education" target="_blank" href="https://www.tiktok.com/tag/education?refer=embed">#education</a> <a target="_blank" title="♬ son original - Dealabs - Bons Plans &#38; Astuces" href="https://www.tiktok.com/music/son-original-7141039212769446662?refer=embed">♬ son original - Dealabs - Bons Plans &#38; Astuces</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-      </div>
-      <div style="display:flex;justify-content:center;align-items:center;">
-        <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Le catalogue de logiciels libres recommandés pour l'ensemble de l'administration contient 378 logiciels libres … il y en a pour tous les goûts !<br><br>Eh, les agents de la fonction publique, vous pouvez en soumettre d'autres 😜<br>👉 <a href="https://t.co/m5p6JvcNeZ">https://t.co/m5p6JvcNeZ</a> <a href="https://t.co/nU7iAzGsML">pic.twitter.com/nU7iAzGsML</a></p>&mdash; bearstech (@bearstech) <a href="https://twitter.com/bearstech/status/1661422600566734867?ref_src=twsrc%5Etfw">May 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
-      <br/>
-      <a style="display:block;text-align:center;" href="https://www.silicon.fr/editorial/searchcontent/recherche=sill">Voir la liste des articles sur Silicon</a>
-    </details>
-
 - layout: left
   company: INSEE
   link: insee.fr
@@ -111,14 +50,6 @@
 
     Développeur du trio Designer/Data Scientist/Développeur recruté pour une mission de 10 mois (puis prolongée) afin de travailler sur le projet Onyxia.  
     Au cours de cette mission, le code a été complètement réécrit, l'interface repensée et le projet est devenu un logiciel open source réutilisable.  
-
-    <details>
-      <summary>Vidéo</summary>
-      <br />
-      <div class="video-responsive">
-        <iframe width="847" height="476" src="https://www.youtube.com/embed/Lo7hkKS0bqo?si=EeTALbRv7-wXl-Ma" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      </div>
-    </details>
 
 - layout: left
   company: Semasim
@@ -140,17 +71,6 @@
     - Gestion du déploiement et de la maintenance de l'infrastructure.  
     - Gestion de la communication, des partenariats et de la recherche de financement.  
 
-    <details>
-      <summary>Vidéo de présentation</summary>
-        <br />
-        <div style="display:flex;justify-content:center;align-items:center;">
-          <iframe width="847" height="450" src="https://www.youtube.com/embed/EN-my9QZ9ww?si=GGNbC4m7SKlcDO3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        </div>
-        <br />
-        <img src="images/semasim1.jpg" alt="semasim1" style="width:100%">
-        <img src="images/semasim2.jpg" alt="semasim2" style="width:100%">
-    </details>
-
 - layout: left
   company: CIHEAM
   link: www.ciheam.org
@@ -167,11 +87,3 @@
     - Déploiment de l'application.  
 
     J'ai été recruté en tant que stagiaire, puis j'ai été prolongé en CDD.
-
-    <details>
-      <br />
-      <summary>Vidéo de présentation</summary>
-      <iframe width="820" height="460" src="https://www.youtube.com/embed/Moax81M6BEA?si=FvxKB-jBgBHlwl9l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </details>
-    <br />
-    <br />
