@@ -40,7 +40,8 @@
       - [Hono](https://hono.dev/)  
       - [NanoJSX](https://nanojsx.io/)
       - [Eta](https://eta.js.org/)  
-      *Notez que le principal argument de vente de ces bibliothèques est "Fonctionne partout (Node, Deno...)" grâce à Denoify.*
+
+    *Notez que le principal argument de vente de ces bibliothèques est "Fonctionne partout (Node, Deno...)" grâce à Denoify.*
 
 - layout: left
   company: EVT
