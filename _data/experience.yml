@@ -60,7 +60,7 @@
     ## React-dsfr - [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
 
     *Le toolkit React du design system de l'État.*  
-    Socle technique utilisé par de nombreux services publics, notamment l'INSEE.  
+    Ce socle technique est adopté par de nombreux services publics, y compris l'INSEE, pour développer des applications web modernes aux couleurs de l'État.
 
     - Initiateur du projet.  
     - Architecte et lead dev du projet.  
@@ -131,8 +131,8 @@
     de collaborateurs de partager une même carte SIM ou d'avoir virtuellement plusieurs numéros de téléphone sur un même appareil.  
     La solution implémente un chiffrement de bout en bout.  
 
-    J'ai débuté le projet alors que j'étais encore étudiant à l'Institut Polytechnique de Turin, dans le cadre d'un projet
-    visant à accompagner les étudiants dans la création de leur entreprise.  
+    J'ai débuté le projet alors que j'étais encore étudiant à l'Institut Polytechnique de Turin, dans le cadre d'un 
+    accompagnement académique pour la création de mon entreprise.
 
     - Développement des applications mobile et web.
     - Développement de l'application serveur.
@@ -166,12 +166,12 @@
     - Développement de la partie front-end de l'application.  
     - Déploiment de l'application.  
 
-    J'ai été recruté en tant que stagiaire puis ai continué en tant que freelance.  
+    J'ai été recruté en tant que stagiaire, puis j'ai été prolongé en CDD.
 
     <details>
       <br />
       <summary>Vidéo de présentation</summary>
-      <iframe width="800" height="700" src="https://www.youtube.com/embed/Moax81M6BEA?si=FvxKB-jBgBHlwl9l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="820" height="460" src="https://www.youtube.com/embed/Moax81M6BEA?si=FvxKB-jBgBHlwl9l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </details>
     <br />
     <br />
